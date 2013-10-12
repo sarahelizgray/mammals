@@ -1,4 +1,4 @@
 mammals
 =======
 
-they are fuzzy
+they are fuzzy and cute!
